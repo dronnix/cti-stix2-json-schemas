@@ -1,5 +1,5 @@
 {
-  "$id": "http://raw.githubusercontent.com/oasis-open/cti-stix2-json-schemas/stix2.1/schemas/sdos/infrastructure.json",
+  "$id": "http://raw.githubusercontent.com/dronnix/cti-stix2-json-schemas/master/schemas/sdos/infrastructure.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "infrastructure",
   "description": "Infrastructure objects describe systems, software services, and associated physical or virtual resources.",
